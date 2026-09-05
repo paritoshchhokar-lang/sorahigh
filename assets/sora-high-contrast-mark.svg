@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Sora High</title>
+  <desc id="desc">High contrast mountain, trail and sun logo mark</desc>
+  <circle cx="80" cy="80" r="75" fill="#fff8e8" stroke="#00a6a6" stroke-width="7"/>
+  <circle cx="111" cy="47" r="15" fill="#ffc43d"/>
+  <path d="M25 118 64 54l18 28 13-18 40 54z" fill="#06284a"/>
+  <path d="m64 54 18 28-11 2 10 16-17-10-14 14 14-27-10-1z" fill="#fff8e8"/>
+  <path d="M37 118c18-23 37-17 48-5 12 13 25 12 38-1" fill="none" stroke="#00a6a6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M37 132c19 5 37 3 50-6 10-7 21-9 35-4" fill="none" stroke="#06284a" stroke-width="7" stroke-linecap="round"/>
+</svg>
