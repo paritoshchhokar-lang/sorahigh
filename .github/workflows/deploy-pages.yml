@@ -28,7 +28,8 @@ jobs:
       - name: Upload website
         uses: actions/upload-pages-artifact@v3
         with:
-          path: outputs/sora-high-website
+          # The ZIP is uploaded with index.html and assets at the repository root.
+          path: .
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
